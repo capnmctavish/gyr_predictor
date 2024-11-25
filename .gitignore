@@ -4,3 +4,4 @@ data_repo/*
 models/*
 .env
 credentials/*
+backend/books-rag-41313ed7b44d.json
