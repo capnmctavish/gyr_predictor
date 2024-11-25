@@ -1,0 +1,1 @@
+create requirements based on the frontend.py file in this same directory

@@ -1,0 +1,31 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f7f7f9;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f8f9fa;
+    color: #333;
+    font-family: "Arial", sans-serif;
+}
+
+.stButton>button {
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+.stButton>button:hover {
+    background-color: #0056b3;
+}
+
+.stMetric {
+    font-size: 1.2rem;
+    color: #4CAF50;
+    margin: 10px 0;
+}
